@@ -1,5 +1,11 @@
 ## Hello I'm Ashika👋
 
+
+# I'm currently a Computer Science major at UIC
+# I have recentely had an interest in web and front-end development and I am eager to learn more about this field of technology
+
+
+
 <!--
 **ashikashekar/ashikashekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
