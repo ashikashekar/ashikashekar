@@ -2,7 +2,11 @@
 
 
 #### I'm currently a Computer Science major at UIC 🖥️
+#### Ever since I was a kid I had an interest in graphics and animation so I went into computer science because I felt I could learn
+#### alot about technology while still fullfilling my passions with graphics.
 #### I have recentely had an interest in web and front-end development and I am eager to learn more about this field of technology
+
+#### Programming Languages: C++,C,Python,Java
 
 
 
